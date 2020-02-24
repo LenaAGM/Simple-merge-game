@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - 0_0
+  - 0_1
+  - 0_2
+  - 1_0
+  - 1_1
+  - 1_2
+  - 2_0
+  - 2_1
+  - 2_2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Grid
+    uniqueID: 807113887
+    locked: 0
+  - name: Card
+    uniqueID: 4054654535
+    locked: 0
+  - name: CurrentCard
+    uniqueID: 3535558025
+    locked: 0
